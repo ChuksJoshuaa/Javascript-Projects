@@ -1,0 +1,39 @@
+body {
+  height: auto;
+  background: darkgreen;
+  text-align: center;
+}
+
+h1 {
+  color: goldenrod;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.Yes {
+   margin-bottom: 35px;
+   color: white;
+   font-weight: bold;
+}
+
+.main {
+   height: 100px;
+   display: flex;
+   flex-direction: column;
+}
+
+.main p {
+   margin: 10px;
+   font-weight: bold;
+   color: white;
+}
+
+button {
+  width: 100px;
+  background-color: goldenrod;
+}
+
+#player-el {
+  color: white;
+  font-weight: bold;
+}
